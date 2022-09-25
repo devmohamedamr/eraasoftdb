@@ -1,0 +1,18 @@
+{
+    "name": "eraasoft/db",
+    "description": "db packge",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Eraasoft\\Db\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohamed amr",
+            "email": "dev.mohamedamr@gmail.com"
+        }
+    ],
+    "require": {}
+}
